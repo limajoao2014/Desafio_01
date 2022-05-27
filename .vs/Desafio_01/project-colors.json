@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78adb1d8-557e-4f4f-8170-f4ef96326ab7": {
+      "ProjectGuid": "78adb1d8-557e-4f4f-8170-f4ef96326ab7",
+      "DisplayName": "Desafio_01",
+      "ColorIndex": 0
+    },
+    "377d86c6-7a2a-4d6c-b475-2ea0d8de54fd": {
+      "ProjectGuid": "377d86c6-7a2a-4d6c-b475-2ea0d8de54fd",
+      "DisplayName": "Desafio_01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

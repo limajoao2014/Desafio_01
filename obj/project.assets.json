@@ -8,30 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Garcia\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Ubuntu_Rookie\\Desafio_01\\Desafio_01\\Desafio_01\\Desafio_01.csproj",
+      "projectUniqueName": "E:\\Documentos\\Desafios_Java\\Desafio_01\\Desafio_01.csproj",
       "projectName": "Desafio_01",
-      "projectPath": "D:\\Work\\Ubuntu_Rookie\\Desafio_01\\Desafio_01\\Desafio_01\\Desafio_01.csproj",
-      "packagesPath": "C:\\Users\\Garcia\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Ubuntu_Rookie\\Desafio_01\\Desafio_01\\Desafio_01\\obj\\",
+      "projectPath": "E:\\Documentos\\Desafios_Java\\Desafio_01\\Desafio_01.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "E:\\Documentos\\Desafios_Java\\Desafio_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -67,8 +62,20 @@
         "warn": true,
         "downloadDependencies": [
           {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.5, 5.0.5]"
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
           }
         ],
         "frameworkReferences": {
